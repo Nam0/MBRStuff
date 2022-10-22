@@ -1,0 +1,1 @@
+start  "C:\Program Files (x86)\AutoIt3\AutoIt3.exe" C:\Users\namo\Desktop\Namo\MyBot.run.au3 Namo nox nox /a /HideAndroid
